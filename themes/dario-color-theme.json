@@ -1,10 +1,38 @@
+// Accent color #4F46E5"
 {
 	"name": "Darío",
 	"type": "dark",
 	"colors": {
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
-		"focusBorder": "#2563EB",
+		// "textBlockQuote.background": "#ff0000",
+		// "textBlockQuote.border": "#ff0000",
+		// "textLink.activeForeground": "#ff0000",
+		// "textLink.foreground": "#ff0000",
+		// "textPreformat.foreground": "#ff0000",
+		// "textSeparator.foreground": "#ff0000",
+		"toolbar.hoverBackground":"#6366F1B3", // #5A5D5E4F
+		// "toolbar.activeBackground": "#ff0000", // Auto generated from above value by default
+		"button.background": "#4F46E5", // #0e639c
+		"button.hoverBackground": "#6366F1",
+		"button.secondaryBackground": "#ff0000",
+		"dropdown.background": "#404040", // #3c3c3c
+		"dropdown.foreground": "#FAFAFA", // #f0f0f0
+		"input.background": "#404040", // #3c3c3c
+		"input.foreground": "#F5F5F5", // #cccccc
+		"inputOption.activeBackground": "#4F46E5", // Alt"#2563EB", // #2563eb66
+		"inputOption.activeForeground": "#ffffff", // #ffffff
+		"inputValidation.errorBackground": "#7F1D1D", // #5a1d1d
+		"inputValidation.errorBorder": "#B91C1C",// "#be1100",
+		"inputValidation.errorForeground": "#FCA5A5", // "#cccccc",
+		// "inputValidation.infoBackground": "#ff0000",
+		// "scrollbar.shadow": "#18181b", // #000000
+		"scrollbarSlider.activeBackground": "#A3A3A3",
+		"scrollbarSlider.hoverBackground": "#A3A3A3",
+		"scrollbarSlider.background": "#737373", // #79797933
+		
+		
+		"focusBorder": "#4F46E5", // Alt"#2563EB",
 		"icon.foreground": "#D4D4D8",
 		"sash.hoverBorder": "#2563EB", // #007fd4
 		"errorForeground": "#f87171",
