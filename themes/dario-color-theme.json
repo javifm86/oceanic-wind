@@ -3,6 +3,56 @@
 	"name": "Darío",
 	"type": "dark",
 	"colors": {
+
+		"editor.background": "#27272A",// "#1e293b",
+		"editor.foreground": "#E2E8F0",
+		"editorLineNumber.foreground": "#a1a1aa", // #858585
+		"editorLineNumber.activeForeground": "#818CF8", // #c6c6c6
+		"editorCursor.background": "#525252", // #515052
+		"editorCursor.foreground": "#D4D4D4", // #aeafad
+		"editor.lineHighlightBackground" : "#64748b57", // "#65737e55",
+		"editor.selectionBackground": "#6366F166", // alt "#0ea5e966", // "#3399ff33",
+		"editor.selectionHighlightBackground": "#6366F14D", // #ADD6FF26
+		"editor.selectionHighlightBorder": "#71717A", // none
+		"editor.wordHighlightBackground": "#525252B8", // #575757B8
+		// "editor.wordHighlightBorder": "", // none
+		"editor.wordHighlightStrongBackground": "#0c4a6eb8", // #004972B8
+		// "editor.wordHighlightStrongBorder": "", // none
+		"editor.findMatchBackground": "#f974167a", // #EA5C0055"
+		"editor.findMatchHighlightBackground": "#EA580C55", // "#EA5C0055",
+		"editor.findRangeHighlightBackground": "#3f3f4666", // "#3a3d4166",
+		// "editor.findMatchBorder": // none
+		// "editor.findMatchHighlightBorder": // none
+		// "editor.findRangeHighlightBorder": // none
+
+		"searchEditor.findMatchBackground": "#f974167a", // "#EA5C0055",
+		// "searchEditor.findMatchBorder": // none
+		// "searchEditor.textInputBorder": // none
+		"editor.hoverHighlightBackground": "#4338CA75", // "#264f7840",
+		// "editor.lineHighlightBorder": // none
+		"editorLink.activeForeground": "#818CF8",
+		"editor.rangeHighlightBackground": "#64748b57", // "#ffffff0b",
+		// "editor.rangeHighlightBorder": // none
+		"editor.symbolHighlightBackground": "#f974167a", // "#EA5C0055",
+		// "editor.symbolHighlightBorder": // none
+		"editorWhitespace.foreground": "#E4E4E729", // "#e3e4e229",
+		"editorIndentGuide.background": "#E4E4E729", // "#e3e4e229",
+		"editorIndentGuide.activeBackground": "#e4e4e786", // "#e3e4e229",
+		"editorInlayHint.background": "#ffffff99",
+		"editorInlayHint.foreground": "#ffffffcc",
+		"editorRuler.foreground": "#52525B", // "#5A5A5A",
+		"editor.linkedEditingBackground": "#ef44444d", // "#ff00004D",
+		// "editorCodeLens.foreground": "#a3a3a3", // "#999999",
+		"editorLightBulb.foreground": "#FACC15", // #FFCC00",
+		"editorLightBulbAutoFix.foreground": "#60A5FA", // "#75beff",
+		"editorBracketMatch.background": "#166534ad", // "#0064001a",
+		"editorBracketMatch.border": "#A1A1AA", // #888
+		"editorBracketHighlight.foreground1": "#facc15", // #FFD700
+		"editorBracketHighlight.foreground2": "#E879F9", // #DA70D6
+		"editorBracketHighlight.foreground3": "#60a5fa", // #179FFF
+		"editorBracketHighlight.unexpectedBracket.foreground": "#EF4444", // "#ff1212",
+		"editor.foldBackground": "#4338CA4D",
+
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
 		"textBlockQuote.background": "#3f3f46", // #303033
@@ -55,15 +105,15 @@
 		"activityBar.dropBorder": "#4F46E5",
 		"activityBar.foreground": "#ffffff", // #ffffff
 		"activityBar.inactiveForeground": "#ffffff66", // #ffffff66
-		// "activityBar.border": "#ff0000", // none
+		// "activityBar.border": "#52525B", // none
 		"activityBarBadge.foreground": "#EEF2FF", // #ffffff
 		"activityBarBadge.background": "#4F46E5", // "#007acc",
 		"activityBar.activeBorder": "#ffffff", // #ffffff
 		// "activityBar.activeBackground": "#ff0000", // none
 		// "activityBar.activeFocusBorder": "#ff0000", // "focusBorder"
-		"sideBar.background": "#171717", // #252526
+		"sideBar.background": "#27272A",// "#171717", // #252526
 		"sideBar.foreground": "#F5F5F5", // #cccccc
-		// "sideBar.border": "#ff0000", // none
+		"sideBar.border": "#18181B", // none
 		"sideBar.dropBackground": "#71717A80", // #53595d80
 		"sideBarTitle.foreground": "#F5F5F5", // "#f5f5f5",
 		"sideBarSectionHeader.background": "#73737333", // #80808033
@@ -112,9 +162,6 @@
 		"icon.foreground": "#D4D4D8",
 		"sash.hoverBorder": "#4F46E5", // #007fd4
 		"errorForeground": "#f87171",
-		"editor.background": "#27272A",// "#1e293b",
-		"editor.foreground": "#E2E8F0",
-		"editor.lineHighlightBackground" : "#65737e55"
 	},
 	"tokenColors": [
 		{
