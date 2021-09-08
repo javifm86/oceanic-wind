@@ -97,6 +97,20 @@
 		// "diffEditor.removedTextBorder": "#ff0000", // none
 		"diffEditor.diagonalFill": "#F5F5F533", // "#cccccc33",
 
+		"editorWidget.foreground": "#F5F5F5", //"#CCCCCC",
+		"editorWidget.background": "#171717", // #262626 // "#252526",
+		"editorWidget.border": "#525252", // "#454545"
+		"editorWidget.resizeBorder": "#525252",
+		"editorSuggestWidget.background": "#171717", // Same than editorWidget.background - 252526
+		"editorSuggestWidget.border": "#525252",
+		"editorSuggestWidget.foreground": "#F5F5F5",
+		"editorSuggestWidget.focusHighlightForeground": "#0EA5E9", // "#18A3FF",
+		"editorSuggestWidget.highlightForeground": "#0EA5E9", // "#18A3FF",
+		"editorSuggestWidget.selectedBackground": "#3730A3", // list.activeSelectionBackground
+		"editorSuggestWidget.selectedForeground": "#ffffff", // same list.activeSelectionForeground
+		"editorSuggestWidget.selectedIconForeground": "#ffffff",
+
+
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
 		"textBlockQuote.background": "#3f3f46", // #303033
