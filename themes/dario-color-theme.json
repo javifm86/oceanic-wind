@@ -82,6 +82,21 @@
 		"problemsWarningIcon.foreground": "#FBBF24", //"#CCA700",
 		"problemsInfoIcon.foreground": "#0ea5e9", //"#3794FF",
 
+		// "editorUnnecessaryCode.border": // none
+		"editorUnnecessaryCode.opacity": "#00000099",
+
+		"editorGutter.modifiedBackground": "#0891b2", // #0c7d9d
+		"editorGutter.addedBackground": "#4D7C0F", // "#587c0c",
+		"editorGutter.deletedBackground": "#991B1B", // #94151b
+		"editorGutter.commentRangeForeground": "#d4d4d4", // "#c5c5c5",
+		"editorGutter.foldingControlForeground": "#d4d4d4", // "#c5c5c5",
+
+		"diffEditor.insertedTextBackground": "#22c55e33", // #9bb95533
+		// "diffEditor.insertedTextBorder": // none
+		"diffEditor.removedTextBackground": "#ef444433", // "#ff000033",
+		// "diffEditor.removedTextBorder": "#ff0000", // none
+		"diffEditor.diagonalFill": "#F5F5F533", // "#cccccc33",
+
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
 		"textBlockQuote.background": "#3f3f46", // #303033
