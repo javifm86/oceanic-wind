@@ -110,6 +110,21 @@
 		"editorSuggestWidget.selectedForeground": "#ffffff", // same list.activeSelectionForeground
 		"editorSuggestWidget.selectedIconForeground": "#ffffff",
 
+		"editorHoverWidget.foreground": "#F5F5F5", // #CCCCCC
+		"editorHoverWidget.background": "#171717", // #252526
+		"editorHoverWidget.border": "#525252", // #454545
+		"editorGhostText.foreground": "#ffffff56", // #ffffff56
+		"debugExceptionWidget.background": "#7F1D1D", // #420b0d
+		"debugExceptionWidget.border": "#b91c1c", // #a31515
+
+		"editorMarkerNavigation.background": "#27272A", // Same than editor.background, default :"#1E1E1E",
+		"editorMarkerNavigationError.background": "#EF4444", // Border Same than "editorError.foreground": "#EF4444" defaults : #F14C4C
+		"editorMarkerNavigationWarning.background": "#FBBF24", // Border Same than "editorWarning.foreground": "#FBBF24" defaults: #CCA700
+		"editorMarkerNavigationInfo.background": "#0ea5e9", // Border same than "editorInfo.foreground": "#0ea5e9", defaults: "#3794FF",
+		"editorMarkerNavigationError.headerBackground": "#ef444433",
+		"editorMarkerNavigationWarning.headerBackground": "#FBBF2433",
+		"editorMarkerNavigationInfo.headerBackground": "#0ea5e933",
+
 
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
