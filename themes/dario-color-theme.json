@@ -125,6 +125,45 @@
 		"editorMarkerNavigationWarning.headerBackground": "#FBBF2433",
 		"editorMarkerNavigationInfo.headerBackground": "#0ea5e933",
 
+		"peekView.border": "#0ea5e9", // "editorInfo.foreground": "#0ea5e9", // "#3794FF",
+		"peekViewEditor.background": "#312e8166", // "#001F33",
+		"peekViewEditorGutter.background": "#312e8166",
+		"peekViewEditor.matchHighlightBackground": "#EA580C55", // #ff8f0099
+		// "peekViewEditor.matchHighlightBorder": "", // none
+		"peekViewResult.background": "#171717", // #252526
+		"peekViewResult.fileForeground": "#ffffff", // #ffffff
+		// "peekViewResult.lineForeground": "#D4D4D4", // #bbbbbb
+		"peekViewResult.matchHighlightBackground": "#ea580c4d", // #ea5c004d
+		"peekViewResult.selectionBackground": "#6366F166", // #3399ff33
+		"peekViewResult.selectionForeground": "#ffffff", // #ffffff
+		"peekViewTitle.background": "#0ea5e91a", // #3794FF1A
+		"peekViewTitleDescription.foreground": "#F5F5F5B3", // #ccccccb3
+		"peekViewTitleLabel.foreground": "#ffffff", // #ffffff
+
+		"merge.currentHeaderBackground": "#2DD4BF80", // #40C8AE80
+		"merge.currentContentBackground": "#2DD4BF33", // 40C8AE33
+		"merge.incomingHeaderBackground": "#0EA5E980", // 40A6FF80
+		"merge.incomingContentBackground": "#0EA5E933", // 40A6FF33
+		// "merge.border": // none
+		"merge.commonHeaderBackground": "#52525280", // #60606080
+		"merge.commonContentBackground": "#52525233", // #60606033
+		"editorOverviewRuler.currentContentForeground": "#2DD4BF80", // #40C8AE80
+		"editorOverviewRuler.incomingContentForeground": "#0EA5E980", // 40A6FF80
+		"editorOverviewRuler.commonContentForeground": "#52525266", // // 60606066
+
+		"panel.background": "#27272A", // Same than editor.background
+		"panel.border": "#73737359", // #80808059
+		// "panel.dropBorder": "#ff0000", // ????
+		"panelTitle.activeBorder": "#E5E5E5", // #E7E7E7
+		"panelTitle.activeForeground": "#E5E5E5", // #E7E7E7
+		"panelTitle.inactiveForeground": "#E5E5E599", // #E7E7E799
+		// "panelInput.border": "#ff0000", // none
+		"panelSection.border": "#73737359", // 80808059
+		"panelSection.dropBackground": "#52525b80", // 53595D80
+		"panelSectionHeader.background": "#73737333", // 80808033
+		"panelSectionHeader.foreground": "#F5F5F5", // #cccccc
+		// "panelSectionHeader.border": , // null
+
 
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
