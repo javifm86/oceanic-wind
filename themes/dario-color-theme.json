@@ -252,7 +252,7 @@
 		"terminal.dropBackground": "#52525280", // #53595d80
 		// "terminal.tab.activeBorder": // null
 
-				"debugToolBar.background": "#18181B",
+		"debugToolBar.background": "#18181B",
 		"debugToolBar.border": "#3F3F46", // null
 		"editor.stackFrameHighlightBackground": "#fbbf2433", // ffff0033
 		"editor.focusedStackFrameHighlightBackground": "#4ADE804d", // 7abd7a4d
@@ -305,6 +305,116 @@
 		"gitDecoration.ignoredResourceForeground": "#A3A3A3", // 8C8C8C
 		"gitDecoration.conflictingResourceForeground": "#fb7185", // e4676b
 		"gitDecoration.submoduleResourceForeground": "#93C5FD", // 8db9e2
+
+		"settings.headerForeground": "#e5e5e5", // e7e7e7
+		"settings.modifiedItemIndicator": "#4F46E5", // 0c7d9d
+		"settings.dropdownBackground": "#404040", // 3C3C3C
+		"settings.dropdownForeground": "#F5F5F5", // F0F0F0
+		"settings.dropdownBorder": "#404040", // 3C3C3C
+		"settings.dropdownListBorder": "#737373", // 454545
+		"settings.checkboxBackground": "#4F46E5", // 3C3C3C
+		"settings.checkboxForeground": "#F5F5F5", // F0F0F0
+		"settings.checkboxBorder": "#404040", // 3C3C3C
+		"settings.rowHoverBackground": "#A3A3A31A", // 8080801A
+		"settings.textInputBackground": "#404040", // 3C3C3C
+		"settings.textInputForeground": "#f5f5f5", // CCCCCC
+		// "settings.textInputBorder": "#ff0000", // null
+		"settings.numberInputBackground": "#404040", // 3C3C3C
+		"settings.numberInputForeground": "#f5f5f5", // CCCCCC
+		// "settings.numberInputBorder":"#ff0000", // null
+		"settings.focusedRowBackground": "#A3A3A31A", // 8080801A
+		"settings.focusedRowBorder": "#ffffff1F", // ffffff1F
+
+		"breadcrumb.foreground": "#A3A3A3", // CCCCCCCC
+		"breadcrumb.background": "#171717", // 1E1E1E
+		"breadcrumb.focusForeground": "#f5f5f5", // darken(#f5f5f5, 0.2)
+		"breadcrumb.activeSelectionForeground": "#f5f5f5",
+		"breadcrumbPicker.background": "#171717", // 252526
+
+		"editor.snippetTabstopHighlightBackground": "#7373734D", // #7c7c7c4D
+		// "editor.snippetTabstopHighlightBorder": "#ff0000", // null
+		// "editor.snippetFinalTabstopHighlightBackground": "#ff0000", // null
+		"editor.snippetFinalTabstopHighlightBorder": "#6366F1", // 525252
+
+		
+		"symbolIcon.arrayForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.booleanForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.classForeground": "#f59e0b", // #EE9D28
+		"symbolIcon.colorForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.constantForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.constructorForeground": "#c084fc", // #b180d7
+		"symbolIcon.enumeratorForeground": "#60A5FA", // 75BEFF
+		"symbolIcon.enumeratorMemberForeground": "#60A5FA", // 75BEFF
+		"symbolIcon.eventForeground": "#f59e0b", // #EE9D28
+		"symbolIcon.fieldForeground": "#60A5FA", // 75BEFF
+		"symbolIcon.fileForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.folderForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.functionForeground": "#c084fc", // #b180d7
+		"symbolIcon.interfaceForeground": "#60A5FA", // 75BEFF
+		"symbolIcon.keyForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.keywordForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.methodForeground": "#c084fc", // #b180d7
+		"symbolIcon.moduleForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.namespaceForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.nullForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.numberForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.objectForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.operatorForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.packageForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.propertyForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.referenceForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.snippetForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.stringForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.structForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.textForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.typeParameterForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.unitForeground": "#f5f5f5", // CCCCCC
+		"symbolIcon.variableForeground": "#60A5FA", // 75BEFF
+
+		"debugIcon.breakpointForeground": "#dc2626", // E51400
+		"debugIcon.breakpointDisabledForeground": "#737373", // 848484
+		"debugIcon.breakpointUnverifiedForeground": "#737373", // 848484
+		"debugIcon.breakpointCurrentStackframeForeground": "#FACC15", // FFCC00
+		"debugIcon.breakpointStackframeForeground": "#86efac", // 89D185
+		"debugIcon.startForeground": "#86efac", // 89D185
+		"debugIcon.pauseForeground": "#60A5FA", // 75BEFF
+		"debugIcon.stopForeground": "#f7dee2", // F48771
+		"debugIcon.disconnectForeground": "#FB7185", // F48771
+		"debugIcon.restartForeground": "#86efac", // 89D185
+		"debugIcon.stepOverForeground": "#60A5FA", // 75BEFF
+		"debugIcon.stepIntoForeground": "#60A5FA", // 75BEFF
+		"debugIcon.stepOutForeground": "#60A5FA", // 75BEFF
+		"debugIcon.continueForeground": "#60A5FA", // 75BEFF
+		"debugIcon.stepBackForeground": "#60A5FA", // 75BEFF
+		"debugConsole.infoForeground": "#0ea5e9", // 3794FF
+		"debugConsole.warningForeground": "#f59e0b", // CCA700
+		"debugConsole.errorForeground": "#FB7185", // F48771
+		"debugConsole.sourceForeground": "#f5f5f5", // CCCCCC
+		"debugConsoleInputIcon.foreground": "#f5f5f5", // CCCCCC
+
+		"notebook.cellBorderColor": "#3730A3", // 37373D
+		// "notebook.cellHoverBackground": "#ff0000", // null
+		"notebook.cellInsertionIndicator": "#4F46E5", // 007FD4
+		"notebook.cellStatusBarItemHoverBackground": "#ffffff26", // #ffffff26
+		"notebook.cellToolbarSeparator": "#73737359", // 80808059
+		"notebook.cellEditorBackground": "#f5f5f50A", // CCCCCC0A
+		// "notebook.focusedCellBackground": "#ff0000", // null
+		"notebook.focusedCellBorder": "#4F46E5", // 007FD4
+		"notebook.focusedEditorBorder": "#4F46E5", // 007FD4
+		"notebook.inactiveFocusedCellBorder": "#3730A3", // 37373D
+		// "notebook.inactiveSelectedCellBorder": "#ff0000", // null
+		// "notebook.outputContainerBackgroundColor": "#ff0000", // null
+		"notebook.selectedCellBackground": "#3730A3", // 37373D
+		"notebook.selectedCellBorder": "#3730A3", // 37373D
+		"notebook.symbolHighlightBackground": "#ffffff0b", // ffffff0b
+		"notebookScrollbarSlider.activeBackground": "#d4d4d466", // BFBFBF66
+		"notebookScrollbarSlider.background": "#73737366", // 79797966
+		"notebookScrollbarSlider.hoverBackground": "#737373B3", // 646464B3
+		"notebookStatusErrorIcon.foreground": "#FB7185", // F48771
+		"notebookStatusRunningIcon.foreground": "#F5F5F5", // CCCCCC
+		"notebookStatusSuccessIcon.foreground": "#86efac", // 89D185
+
+		"ports.iconRunningProcessForeground": "#4F46E5", // 007ACC
 
 		"panel.background": "#27272A", // Same than editor.background
 		"panel.border": "#73737359", // #80808059
