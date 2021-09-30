@@ -15,6 +15,21 @@
                 "label": "Darío",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dario-color-theme.json"
+            },
+            {
+                "label": "Darío gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dario-gray-color-theme.json"
+            },
+            {
+                "label": "Darío true gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dario-true-gray-color-theme.json"
+            },
+            {
+                "label": "Darío cool gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dario-cool-gray-color-theme.json"
             }
         ]
     }
