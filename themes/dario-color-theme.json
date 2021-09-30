@@ -16,7 +16,7 @@
 		"textBlockQuote.background": "#3f3f46",
 		"textBlockQuote.border": "#4f46e5",
 		"textLink.activeForeground": "#818cf8",
-		"textLink.foreground": "#818cf8",
+		"textLink.foreground": "#a5b4fc",
 		"textPreformat.foreground": "#fcd34d",
 
 		// Action colors
@@ -90,7 +90,7 @@
 		"tree.tableColumnsBorder": "#f5f5f520",
 
 		// Activity Bar
-		"activityBar.background": "#27272a",
+		"activityBar.background": "#3f3f46",
 		"activityBar.dropBorder": "#4f46e5",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#ffffff66",
@@ -101,7 +101,7 @@
 		// Side Bar
 		"sideBar.background": "#27272a",
 		"sideBar.foreground": "#f5f5f5",
-		"sideBar.border": "#18181b",
+		"sideBar.border": "#3f3f46",
 		"sideBar.dropBackground": "#71717a80",
 		"sideBarTitle.foreground": "#f5f5f5",
 		"sideBarSectionHeader.background": "#73737333",
@@ -123,8 +123,8 @@
 		"editorGroup.border": "#525252",
 		"editorGroup.dropBackground": "#52525b80",
 		"editorGroupHeader.noTabsBackground": "#3f3f46",
-		"editorGroupHeader.tabsBackground": "#171717",
-		"tab.activeBackground": "#52525b",
+		"editorGroupHeader.tabsBackground": "#27272a",
+		"tab.activeBackground": "#3f3f46",
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#27272a",
 		"tab.lastPinnedBorder": "#525252",
@@ -133,8 +133,8 @@
 		"tab.inactiveForeground": "#a1a1aa",
 		"tab.unfocusedActiveForeground": "#d4d4d8",
 		"tab.unfocusedInactiveForeground": "#a1a1aa",
-		"tab.activeModifiedBorder": "#4f46e5",
-		"tab.inactiveModifiedBorder": "#4f46e5",
+		"tab.activeModifiedBorder": "#6366f1",
+		"tab.inactiveModifiedBorder": "#6366f1",
 		"tab.unfocusedActiveModifiedBorder": "#71717a",
 		"tab.unfocusedInactiveModifiedBorder": "#52525b",
 
@@ -263,7 +263,7 @@
 
 		// Panel colors
 		"panel.background": "#27272a",
-		"panel.border": "#73737359",
+		"panel.border": "#3f3f46",
 		"panelTitle.activeBorder": "#e5e5e5",
 		"panelTitle.activeForeground": "#e5e5e5",
 		"panelTitle.inactiveForeground": "#e5e5e599",
@@ -419,7 +419,7 @@
 
 		// Breadcrumbs colors
 		"breadcrumb.foreground": "#a3a3a3",
-		"breadcrumb.background": "#171717",
+		"breadcrumb.background": "#27272a",
 		"breadcrumb.focusForeground": "#f5f5f5",
 		"breadcrumb.activeSelectionForeground": "#f5f5f5",
 		"breadcrumbPicker.background": "#171717",
