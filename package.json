@@ -30,6 +30,16 @@
                 "label": "Darío cool gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dario-cool-gray-color-theme.json"
+            },
+            {
+                "label": "Darío blue gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dario-blue-gray-color-theme.json"
+            },
+            {
+                "label": "Darío warm gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dario-warm-gray-color-theme.json"
             }
         ]
     }
