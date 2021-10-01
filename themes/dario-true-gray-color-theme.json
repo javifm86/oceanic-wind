@@ -126,7 +126,7 @@
 		"editorGroupHeader.tabsBackground": "#262626",
 		"tab.activeBackground": "#404040",
 		"tab.activeForeground": "#ffffff",
-		"tab.border": "#262626",
+		"tab.border": "#404040",
 		"tab.lastPinnedBorder": "#525252",
 		"tab.inactiveBackground": "#262626",
 		"tab.unfocusedInactiveBackground": "#262626",
