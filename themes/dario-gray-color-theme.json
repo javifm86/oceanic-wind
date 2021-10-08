@@ -15,8 +15,8 @@
 		// Text colors
 		"textBlockQuote.background": "#3f3f46",
 		"textBlockQuote.border": "#4f46e5",
-		"textLink.activeForeground": "#818cf8",
-		"textLink.foreground": "#a5b4fc",
+		"textLink.activeForeground": "#34d399",
+		"textLink.foreground": "#34d399",
 		"textPreformat.foreground": "#fcd34d",
 
 		// Action colors
@@ -70,7 +70,7 @@
 		"list.activeSelectionForeground": "#ffffff",
 		"list.activeSelectionIconForeground": "#f4f4f5",
 		"list.dropBackground": "#312e81",
-		"list.focusHighlightForeground": "#c7d2fe",
+		"list.focusHighlightForeground": "#a5b4fc",
 		"list.focusOutline": "#3730a3",
 		"list.highlightForeground": "#818cf8",
 		"list.hoverBackground": "#3f3f46",
@@ -157,7 +157,7 @@
 		"editor.findRangeHighlightBackground": "#3f3f4666",
 		"searchEditor.findMatchBackground": "#f973167a",
 		"editor.hoverHighlightBackground": "#4338ca75",
-		"editorLink.activeForeground": "#818cf8",
+		"editorLink.activeForeground": "#34d399",
 		"editor.rangeHighlightBackground": "#64748b57",
 		"editor.symbolHighlightBackground": "#f973167a",
 		"editorWhitespace.foreground": "#e4e4e729",
@@ -329,7 +329,7 @@
 		"pickerGroup.border": "#3f3f46",
 		"quickInput.background": "#18181b",
 		"quickInput.foreground": "#f4f4f5",
-		"quickInputList.focusBackground": "#4338ca",
+		"quickInputList.focusBackground": "#3730a3",
 		"quickInputList.focusForeground": "#ffffff",
 		"quickInputList.focusIconForeground": "#ffffff",
 		"quickInputTitle.background": "#ffffff1a",
