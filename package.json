@@ -12,11 +12,6 @@
     "contributes": {
         "themes": [
             {
-                "label": "Darío",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-color-theme.json"
-            },
-            {
                 "label": "Darío gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dario-gray-color-theme.json"
