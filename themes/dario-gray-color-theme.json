@@ -1152,6 +1152,17 @@
 			"settings": {
 				"foreground": "#eeffff"
 			}
-		}
+		},
+		{
+			"name": "Text nested in React tags",
+			"scope": [
+			  "meta.jsx.children",
+			  "meta.jsx.children.js",
+			  "meta.jsx.children.tsx"
+			],
+			"settings": {
+			  "foreground": "#e2e8f0"
+			}
+		  }
 	]
 }
