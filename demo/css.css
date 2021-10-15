@@ -9,3 +9,71 @@
 main {
   margin-top: 20px;
 }
+
+/* LineTableTD */
+.chroma .lntd {
+  vertical-align: top;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+/* LineTable */
+.chroma .lntable {
+  border-spacing: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  width: auto;
+  overflow: auto;
+  display: block;
+}
+/* LineHighlight */
+.chroma .hl {
+  display: block;
+  width: 100%;
+  background-color: #383f2b;
+}
+/* LineNumbersTable */
+.chroma .lnt {
+  margin-right: 0.4em;
+  padding: 0 0.4em 0 0.4em;
+  color: #a8a8a8;
+}
+/* LineNumbers */
+.chroma .ln {
+  margin-right: 0.4em;
+  padding: 0 0.4em 0 0.4em;
+  color: #a8a8a8;
+}
+/* Keyword */
+.chroma .k {
+  color: #6cbb26;
+}
+/* KeywordConstant */
+.chroma .kc {
+  color: #6cbb26;
+}
+/* KeywordDeclaration */
+.chroma .kd {
+  color: #6cbb26;
+}
+/* KeywordNamespace */
+.chroma .kn {
+  color: #6cbb26;
+}
+/* KeywordPseudo */
+.chroma .kp {
+  color: #6cbb26;
+}
+/* KeywordReserved */
+.chroma .kr {
+  color: #6cbb26;
+}
+/* KeywordType */
+.chroma .kt {
+  color: #6cbb26;
+}
+/* NameAttribute */
+.chroma .na {
+  color: #bbbbbb;
+}
