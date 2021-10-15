@@ -1,5 +1,8 @@
+# Indigo
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
     "activityBarBadge.foreground": "#eef2ff",
     "list.focusHighlightForeground": "#a5b4fc",
     "textLink.foreground": "#34d399",
@@ -58,3 +61,4 @@
     "peekViewEditorGutter.background": "#312e8166"
   }
 }
+```

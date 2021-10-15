@@ -1,5 +1,8 @@
+# Amber
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
     "activityBarBadge.foreground": "#fffbeb",
     "button.foreground": "#fffbeb",
     "list.focusHighlightForeground": "#fcd34d",
@@ -59,3 +62,4 @@
     "peekViewEditorGutter.background": "#78350f66"
   }
 }
+```

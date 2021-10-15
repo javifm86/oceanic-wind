@@ -1,5 +1,8 @@
+# Green
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
     "list.inactiveSelectionForeground": "#e4e4e7",
     "activityBarBadge.foreground": "#eef2ff",
     "list.focusHighlightForeground": "#86efac",
@@ -59,3 +62,4 @@
     "peekViewEditorGutter.background": "#14532d66"
   }
 }
+```

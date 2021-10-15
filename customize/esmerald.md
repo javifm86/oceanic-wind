@@ -1,5 +1,8 @@
+# Esmerald
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
     "activityBarBadge.foreground": "#ecfdf5",
     "list.focusHighlightForeground": "#6ee7b7",
     "textLink.foreground": "#34d399",
@@ -58,3 +61,4 @@
     "peekViewEditorGutter.background": "#064e3b66"
   }
 }
+```

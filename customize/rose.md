@@ -1,5 +1,8 @@
+# Rose
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
     "activityBarBadge.foreground": "#fff1f2",
     "list.focusHighlightForeground": "#fda4af",
     "textLink.foreground": "#fb7185",
@@ -58,3 +61,4 @@
     "peekViewEditorGutter.background": "#88133766"
   }
 }
+```

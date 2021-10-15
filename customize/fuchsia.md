@@ -1,5 +1,8 @@
+# Fuchsia
+
+```
 "workbench.colorCustomizations": {
-  "[Darío gray]": {
+  "[Oceanic Wind]": {
 	  "activityBarBadge.foreground": "#fdf4ff",
     "list.focusHighlightForeground": "#f0abfc",
     "textLink.foreground": "#e879f9",
@@ -58,3 +61,4 @@
     "peekViewEditorGutter.background": "#701a7566"
   }
 }
+```
