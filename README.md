@@ -7,6 +7,11 @@ Almost every color you find is using a Tailwind color, except some rare cases, I
 I did my best for providing good contrast in almost all combinations possible, fulfilling  AA contrast ratio requirements.
 
 ## Installation
+1. Choose **Extensions** from menu
+1. Search `Oceanic Wind`
+1. Click install
+1. Code -> Preferences -> Color Theme -> **Oceanic Wind**
+
 ## Preview
 ![Javascript preview](./screenshots/preview.png)
 
