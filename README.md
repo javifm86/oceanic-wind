@@ -8,10 +8,10 @@ I did my best for providing good contrast in almost all combinations possible, f
 
 ## Installation
 ## Preview
-![Javascript preview](screenshots/preview.png)
+![Javascript preview](./screenshots/preview.png)
 
-![Frameworks](screenshots/frameworks.png)
-[More screenshots](screenshots/)
+![Frameworks](./screenshots/frameworks.png)
+[More screenshots](./screenshots/)
 
 ## Recommended settings
 I like the default font family `Consolas` used in Windows with a font size of 16. Another combination I also like is `Cascadia Code` with ligatures. Font family is a personal decision, use whatever you are used to:
@@ -30,16 +30,17 @@ I like the default font family `Consolas` used in Windows with a font size of 16
 
 ## Customize
 You can overwrite colors for a given theme in VSCode settings. I have created different set of colors to provide accent color to VSCode, if you would like to try another color instead of blue for the accent of your IDE, you can use these different combinations:
-- [Indigo](customize/indigo.md)
-- [Green](customize/green.md)
-- [Rose](customize/rose.md)
-- [Teal](customize/teal.md)
-- [Fuchsia](customize/fuchsia.md)
-- [Amber](customize/amber.md)
-- [Esmerald](customize/esmerald.md)
-- [Sky](customize/sky.md)
+- [Indigo](./customize/indigo.md)
+- [Green](./customize/green.md)
+- [Rose](./customize/rose.md)
+- [Teal](./customize/teal.md)
+- [Fuchsia](./customize/fuchsia.md)
+- [Amber](./customize/amber.md)
+- [Esmerald](./customize/esmerald.md)
+- [Sky](./customize/sky.md)
 
 If you want to use an accent color, but the selection color is too powerful, you can use a neutral color:
+#### Default theme
 ```
 "workbench.colorCustomizations": {
   "[Oceanic Wind]": {
@@ -47,9 +48,26 @@ If you want to use an accent color, but the selection color is too powerful, you
   }
 }
 ```
+#### Cool theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Cool]": {
+    "editor.selectionBackground": "#334155"
+  }
+}
+```
+#### Warm theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Warm]": {
+    "editor.selectionBackground": "#334155"
+  }
+}
+```
 Sidebar, tabs, and editor have the same background, if you would like to try with darker color for sidebar and tabs you can try these combinations:
 
 ### Darker sidebar and tabs
+#### Default theme
 ```
 "workbench.colorCustomizations": {
   "[Oceanic Wind]": {
@@ -61,13 +79,56 @@ Sidebar, tabs, and editor have the same background, if you would like to try wit
   }
 }
 ```
+#### Cool theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Cool]": {
+    "editorGroupHeader.tabsBackground": "#0f172a",
+    "tab.inactiveBackground": "#0f172a",
+    "tab.unfocusedInactiveBackground": "#0f172a",
+    "sideBar.background": "#0f172a",
+    "activityBar.background": "#1e293b"
+  }
+}
+```
+#### Warm theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Warm]": {
+    "editorGroupHeader.tabsBackground": "#1c1917",
+    "tab.inactiveBackground": "#1c1917",
+    "tab.unfocusedInactiveBackground": "#1c1917",
+    "sideBar.background": "#1c1917",
+    "activityBar.background": "#292524"
+  }
+}
+```
 
 ### Darker editor
+#### Default theme
 ```
 "workbench.colorCustomizations": {
   "[Oceanic Wind]": {
     "editor.background": "#18181b", 
     "editorGutter.background": "#18181b"
+  }
+}
+```
+#### Cool theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Cool]": {
+    "editor.background": "#0f172a", 
+    "editorGutter.background": "#0f172a"
+  }
+}
+```
+#### Warm theme
+```
+"workbench.colorCustomizations": {
+  "[Oceanic Wind Warm]": {
+    "editor.background": "#1c1917", 
+    "editorGutter.background": "#1c1917"
   }
 }
 ```
