@@ -1,41 +1,49 @@
 {
-    "name": "vscode-dario",
-    "displayName": "dario",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darío gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-gray-color-theme.json"
-            },
-            {
-                "label": "Darío true gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-true-gray-color-theme.json"
-            },
-            {
-                "label": "Darío cool gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-cool-gray-color-theme.json"
-            },
-            {
-                "label": "Darío blue gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-blue-gray-color-theme.json"
-            },
-            {
-                "label": "Darío warm gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dario-warm-gray-color-theme.json"
-            }
-        ]
-    }
+  "name": "oceanic-wind",
+  "displayName": "Oceanic Wind",
+  "description": "A Visual Studio Code theme based on color combinations from Oceanic Next replaced and customized with Tailwind CSS color palette.",
+  "publisher": "javifm",
+  "icon": "images/logo.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Accesible Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Wind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-wind-color-theme.json"
+      },
+      {
+        "label": "Oceanic Wind 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-wind-2-color-theme.json"
+      },
+      {
+        "label": "Oceanic Wind cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-wind-cool-color-theme.json"
+      },
+      {
+        "label": "Oceanic Wind blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-wind-blue-color-theme.json"
+      },
+      {
+        "label": "Oceanic Wind warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-wind-warm-color-theme.json"
+      }
+    ]
+  }
 }
