@@ -8,6 +8,7 @@
     "textLink.foreground": "#34d399",
     "notificationLink.foreground": "#34d399",
     "textLink.activeForeground": "#34d399",
+    "pickerGroup.foreground": "#34d399",
     "list.highlightForeground": "#34d399",
     "editorLineNumber.activeForeground": "#34d399",
     "editorLink.activeForeground": "#34d399",

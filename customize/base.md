@@ -31,6 +31,7 @@ Shade | Hex
     "textLink.foreground": "#34d399", // 400
     "notificationLink.foreground": "#34d399", // 400
     "textLink.activeForeground": "#34d399", // 400
+    "pickerGroup.foreground": "#34d399", // 400
     "list.highlightForeground": "#34d399", // 400
     "editorLineNumber.activeForeground": "#34d399", // 400
     "editorLink.activeForeground": "#34d399", // 400

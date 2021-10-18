@@ -329,6 +329,7 @@
 
 		// Quick picker colors
 		"pickerGroup.border": "#3f3f46",
+		"pickerGroup.foreground": "#60a5fa",
 		"quickInput.background": "#18181b",
 		"quickInput.foreground": "#f4f4f5",
 		"quickInputList.focusBackground": "#1e40af",
