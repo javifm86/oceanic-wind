@@ -3,9 +3,23 @@
   "displayName": "Oceanic Wind",
   "description": "Theme based on color combinations from Oceanic Next replaced and customized with Tailwind CSS color palette.",
   "publisher": "javifm",
-  "icon": "images/logo.png",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javifm86/oceanic-wind"
+  },
+  "bugs": {
+    "url": "https://github.com/javifm86/oceanic-wind/issues"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "version": "0.1.0",
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#f4f4f5",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "^1.58.0"
   },
