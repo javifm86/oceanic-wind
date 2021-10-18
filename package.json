@@ -1,10 +1,10 @@
 {
   "name": "oceanic-wind",
   "displayName": "Oceanic Wind",
-  "description": "A Visual Studio Code theme based on color combinations from Oceanic Next replaced and customized with Tailwind CSS color palette.",
+  "description": "Theme based on color combinations from Oceanic Next replaced and customized with Tailwind CSS color palette.",
   "publisher": "javifm",
   "icon": "images/logo.png",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.58.0"
@@ -15,7 +15,10 @@
   "keywords": [
     "Theme",
     "Dark Theme",
-    "Accesible Theme"
+    "Accesible Theme",
+    "Cool",
+    "Warm",
+    "Contrast"
   ],
   "contributes": {
     "themes": [
@@ -25,22 +28,12 @@
         "path": "./themes/oceanic-wind-color-theme.json"
       },
       {
-        "label": "Oceanic Wind 2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/oceanic-wind-2-color-theme.json"
-      },
-      {
-        "label": "Oceanic Wind cool",
+        "label": "Oceanic Wind Cool",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic-wind-cool-color-theme.json"
       },
       {
-        "label": "Oceanic Wind blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/oceanic-wind-blue-color-theme.json"
-      },
-      {
-        "label": "Oceanic Wind warm",
+        "label": "Oceanic Wind Warm",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic-wind-warm-color-theme.json"
       }
