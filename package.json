@@ -14,7 +14,7 @@
   "scripts": {
     "publish": "vsce publish"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "icon": "images/logo.png",
   "galleryBanner": {
     "color": "#f4f4f5",
@@ -32,7 +32,8 @@
     "Accesible Theme",
     "Cool",
     "Warm",
-    "Contrast"
+    "Contrast",
+    "Oceanic"
   ],
   "contributes": {
     "themes": [
