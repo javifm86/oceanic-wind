@@ -34,8 +34,8 @@
     "inputOption.activeBorder": "#d9770600",
     "progressBar.background": "#d97706",
     "activityBar.dropBorder": "#d97706",
-    "activityBarBadge.background": "#d97706",
-    "statusBar.background": "#d97706",
+    "activityBarBadge.background": "#b45309",
+    "statusBar.background": "#b45309",
     "statusBarItem.remoteBackground": "#d97706",
     "extensionButton.prominentBackground": "#b45309",
     "extensionBadge.remoteBackground": "#d97706",
@@ -60,7 +60,8 @@
     "list.inactiveSelectionBackground": "#78350f",
     "list.dropBackground": "#78350f",
     "peekViewEditor.background": "#78350f66",
-    "peekViewEditorGutter.background": "#78350f66"
+    "peekViewEditorGutter.background": "#78350f66",
+    "gitDecoration.modifiedResourceForeground": "#fdba74"
   }
 }
 ```
