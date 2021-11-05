@@ -226,6 +226,7 @@
 		"editorHoverWidget.foreground": "#f1f5f9",
 		"editorHoverWidget.background": "#0f172a",
 		"editorHoverWidget.border": "#475569",
+		"editorHoverWidget.highlightForeground": "#3b82f6",
 		"editorGhostText.foreground": "#ffffff56",
 		"debugExceptionWidget.background": "#7f1d1d",
 		"debugExceptionWidget.border": "#b91c1c",
