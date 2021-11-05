@@ -1166,6 +1166,18 @@
 			"settings": {
 			  "foreground": "#e2e8f0"
 			}
-		  }
+		  },
+		  {
+			"name": "JavaScript[React] Variable Other Object",
+			"scope": [
+			  "variable.other.object.js",
+			  "variable.other.object.jsx",
+			  "variable.object.property.js",
+			  "variable.object.property.jsx"
+			],
+			"settings": {
+			  "foreground": "#fb923c"
+			}
+		}
 	]
 }
