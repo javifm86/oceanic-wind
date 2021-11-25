@@ -27,17 +27,17 @@
     "focusBorder": "#e11d48",
     "sash.hoverBorder": "#e11d48",
     "textBlockQuote.border": "#e11d48",
-    "button.background": "#e11d48",
+    "button.background": "#be123c",
     "checkbox.background": "#e11d48",
     "inputOption.activeBackground": "#e11d48",
     "inputOption.activeBorder": "#e11d4800",
     "progressBar.background": "#e11d48",
     "activityBar.dropBorder": "#e11d48",
-    "activityBarBadge.background": "#e11d48",
-    "statusBar.background": "#e11d48",
+    "activityBarBadge.background": "#be123c",
+    "statusBar.background": "#be123c",
     "statusBarItem.remoteBackground": "#e11d48",
-    "extensionButton.prominentBackground": "#e11d48",
-    "extensionBadge.remoteBackground": "#e11d48",
+    "extensionButton.prominentBackground": "#be123c",
+    "extensionBadge.remoteBackground": "#be123c",
     "settings.modifiedItemIndicator": "#e11d48",
     "settings.checkboxBackground": "#e11d48",
     "notebook.cellInsertionIndicator": "#e11d48",
@@ -59,7 +59,9 @@
     "notebook.selectedCellBorder": "#9f1239",
     "list.dropBackground": "#881337",
     "peekViewEditor.background": "#88133766",
-    "peekViewEditorGutter.background": "#88133766"
+    "peekViewEditorGutter.background": "#88133766",
+    "gitDecoration.modifiedResourceForeground": "#fdba74",
+    "gitDecoration.stageModifiedResourceForeground": "#fdba74"
   }
 }
 ```
